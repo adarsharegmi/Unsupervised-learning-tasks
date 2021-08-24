@@ -21,3 +21,7 @@ Dimenstionality reduction
 
 i. Eigenvalues & EigenVectors
 ii. PCA
+
+# I have explained these topics in my medium article so you can check later on .
+
+link : still in progress
